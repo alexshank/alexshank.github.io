@@ -1,2 +1,2 @@
-# alexsshank.github.io
+# alexshank.github.io
 My GitHub Pages website.
